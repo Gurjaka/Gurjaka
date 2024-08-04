@@ -26,7 +26,7 @@
 >**This tool provides quick and easy access to current weather information directly from your terminal.**
 
 ## 4. Contact
-- **Email: **[**esartia.gurika@gmail.com**](mailto:esartia.gurika@gmail.com)
+- **Email:** [**esartia.gurika@gmail.com**](mailto:esartia.gurika@gmail.com)
 
 ## 5. More About Me
 - **In my free time, I enjoy [Coding, Reading, Playing video games, and Watching Films/Animes].**
