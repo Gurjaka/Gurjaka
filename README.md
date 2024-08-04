@@ -1,5 +1,5 @@
 <h1 align="center"; >Hi there!👋 I'm Gurjaka.</h1>
-<h3 align="center"; >Passionate developer, and Tech enthusiast.</h1>
+<h3 align="center"; >Passionate developer, and Tech enthusiast.</h3>
 ## 1. About Me
 - Hi! I'm Gurjaka, a passionate developer and tech enthusiast. Currently, I love exploring new technologies and working on personal projects, to further improve my education.
 ## 2. Skills and Technologies
