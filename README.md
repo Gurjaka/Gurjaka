@@ -1,3 +1,3 @@
- <p align="center"; style="font-size:24px";>Hi there!👋 I'm Gurjaka.</p>
-<p style="align: center; font-size:22px;">Passionate developer, and Tech enthusiast!</p>
+ <h1 align="center"; >Hi there!👋 I'm Gurjaka.</h1>
+ <h3 align="center"; >Passionate developer, and Tech enthusiast.</h1>
 
