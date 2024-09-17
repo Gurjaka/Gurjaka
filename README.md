@@ -5,7 +5,7 @@
 - **Hi! I'm Gurjaka, a passionate developer and tech enthusiast. Currently, I love exploring new technologies and working on personal projects to further improve my education.**
 
 ## 📊 GitHub Stats
-![Gurjaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurjaka&show_icons=true&theme=radical)
+![Gurjaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurjaka&show_icons=true&theme=radical) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurjaka&layout=compact&theme=radical)
 
