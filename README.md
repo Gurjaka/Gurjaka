@@ -31,6 +31,8 @@
 ## 📚 Projects
 - [**Nixos-Dotfiles**](https://github.com/Gurjaka/Dotfiles): 
 >**Personal configuration files for NixOS, tailored to create an efficient and productive development environment.**
+- [**Python Roadmap**](https://github.com/Gurjaka/Python-Projects-Roadmap):
+>**The Python Projects Roadmap is designed to guide learners through a structured journey of mastering Python, one project at a time. This roadmap breaks down the learning process into clear stages, helping students progressively build their skills across various domains. It covers a wide array of project categories, from beginner to advanced levels, allowing users to tackle challenges at their own pace.**
 - [**Weather CLI**](https://github.com/Gurjaka/Weather-Cli): 
 >**This tool provides quick and easy access to current weather information directly from your terminal.**
 
