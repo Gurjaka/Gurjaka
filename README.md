@@ -5,13 +5,12 @@
 - **Hi! I'm Gurjaka, a passionate developer and tech enthusiast. Currently, I love exploring new technologies and working on personal projects to further improve my education.**
 
 ## 📊 GitHub Stats
-![Gurjaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurjaka&show_icons=true&theme=radical) 
+![gurjaka's Stats](https://github-readme-stats.vercel.app/api?username=gurjaka&theme=nord&show_icons=true&hide_border=false&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurjaka&layout=compact&theme=radical)
+![gurjaka's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurjaka&theme=nord&show_icons=true&hide_border=false&layout=compact)
+![gurjaka's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gurjaka&theme=nord&hide_border=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gurjaka&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gurjaka&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gurjaka&theme=nord)
 
 ## 💻 Skills and Technologies
 
