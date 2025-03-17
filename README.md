@@ -67,6 +67,9 @@
 🔹 **[Zen-Browser-Nix](https://github.com/Gurjaka/zen-browser-nix)**  
 🌐 *NixOS flake that ports [Zen Browser](https://zen-browser.app/) to NixOS for seamless installation.*  
 
+🔹 **[Focus-Mode](https://github.com/Gurjaka/focus-mode)**  
+⚡ Boosts productivity by managing distractions and communications during coding sessions.
+
 ---
 
 ## 📈 GitHub Activity Graph  
@@ -91,5 +94,9 @@
 ## 📝 More About Me  
 - **In my free time, I enjoy [Coding, Reading, Playing video games, and Watching Films/Animes].**  
 - **In the future, I plan to learn more about artificial intelligence, machine learning and electrical engineering.**  
+---
+
+## ☕ Support Me on Ko-Fi  
+If you'd like to support my projects and help me stay fueled with caffeine, consider donating on [Ko-Fi](https://ko-fi.com/gurjaka). Your support is greatly appreciated!
 
 ---
