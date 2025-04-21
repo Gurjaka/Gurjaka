@@ -36,7 +36,6 @@
 ### 🛠️ Programming Languages  
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=yellow)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![Nix](https://img.shields.io/badge/Nix-%2300AEEF.svg?style=flat&logo=nixos&logoColor=white)
 
 ### 🔧 Tools & Frameworks  
