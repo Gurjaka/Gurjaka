@@ -50,6 +50,9 @@
 🔹 **[📚 Books](https://github.com/Gurjaka/Books)**  
 📖 *A collection of books I've read, recommend, or plan to read. Organized by topic for easy browsing.*
 
+🔹 **[🌳 Manim-Decision-Tree](https://github.com/Gurjaka/manim-decision-tree)**   
+🎬 *Visualizing decision trees using Manim to explore how they split data.*
+
 ---
 
 ## 🧩 Contributions  
@@ -110,14 +113,14 @@ Open to hacking on ideas, learning together, or collaborating on passion project
 ---
 
 ## 📝 More About Me  
-- **🎮 Hobbies**: Coding, reading tech books, optimizing my setup, gaming, and binge-watching quirky films and anime.
+**🎮 Hobbies**: Coding, reading tech books, optimizing my setup, gaming, and binge-watching quirky films and anime.
 
-- **🚀 My long-term interests**: AI, ML, electrical engineering, and low-level performance.
+**🚀 My long-term interests**: AI, ML, electrical engineering, and low-level performance.
 
-- **🔋 Fun Facts**:
-    - I once spent an entire weekend redoing my Neovim setup because I wasn’t happy with how one plugin looked.
-    - I can spend hours configuring my terminal and still feel like I haven’t “perfected” it.
-    - I may or may not have yelled at my PC for not compiling code fast enough, it definitely was not my trusty Pentium 3 holding me back.
+**🔋 Fun Facts**:
+- I once spent an entire weekend redoing my Neovim setup because I wasn’t happy with how one plugin looked.
+- I can spend hours configuring my terminal and still feel like I haven’t “perfected” it.
+- I may or may not have yelled at my PC for not compiling code fast enough, it definitely was not my trusty Pentium 3 holding me back.
 > ✍️ I write code like poetry — minimal, precise, and honest.
 
 ---
