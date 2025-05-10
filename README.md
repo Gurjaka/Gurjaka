@@ -74,13 +74,25 @@
 
 ---
 
-## 💻 Skills & Technologies  
+## 💻 Skills & Technologies
 
-### 🛠️ Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=py,c,nix&perline=3)](https://skillicons.dev)
+### 🧠 Core Languages  
+- 🐍 [**Python**](https://www.python.org/) — scripting, automation, and project prototyping  
+- ⚙️ [**C**](https://en.wikipedia.org/wiki/C_(programming_language)) — low-level systems, memory, and performance  
+- ❄️ [**Nix**](https://nixos.org/) — reproducible environments and system config  
 
-### 🔧 Tools & Frameworks  
-[![My Tools](https://skillicons.dev/icons?i=linux,nix,bash,neovim,git,github,obsidian&perline=7)](https://skillicons.dev)
+### ⚙️ Tools & Workflow  
+- 🐧 [**Linux**](https://kernel.org/) — daily driver, terminal-first workflow  
+- 🖋️ [**Neovim**](https://neovim.io/) — highly-tuned editor for speed and control  
+- 💻 [**tmux**](https://github.com/tmux/tmux/wiki) — terminal multiplexing, always running sessions  
+- 🔧 [**Bash**](https://www.gnu.org/software/bash/) — shell scripting and automation  
+- 🌀 [**Git**](https://git-scm.com/) — version control and open-source collaboration  
+
+### 📦 Knowledge Areas  
+- 🧠 [**Dotfiles**](https://dotfiles.github.io/) — minimalist setup, optimized for flow  
+- 🔍 [**Linux Internals**](https://0xax.gitbooks.io/linux-insides/) — learning how the system really works  
+- 📜 [**Markdown & Obsidian**](https://obsidian.md/) — notes, docs, and personal wiki  
+- 📎 [**Automation**](https://en.wikipedia.org/wiki/Shell_script) — scripts and tools to remove friction
 
 ---
 
@@ -91,18 +103,28 @@
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Connect With Me
+
 > Whether it’s a bug, a brainstorm, or a random late-night idea — I’m here.
 
-<p align="left">
-  <a href="mailto:esartia.gurika@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-
-  <a href="https://discord.com/users/1072910571487371293" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="mailto:esartia.gurika@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="24">
+      </a>
+    </td>
+    <td>— reach out directly for anything</td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <a href="https://discord.com/users/1072910571487371293">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord" height="22">
+      </a>
+    </td>
+    <td>— quick chats, coding talk, or just hanging out</td>
+  </tr>
+</table>
 
 ---
 
