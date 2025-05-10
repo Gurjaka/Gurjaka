@@ -34,18 +34,10 @@
 ## 💻 Skills and Technologies  
 
 ### 🛠️ Programming Languages  
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=yellow)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Nix](https://img.shields.io/badge/Nix-%2300AEEF.svg?style=flat&logo=nixos&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=py,c,nix&perline=3)](https://skillicons.dev)
 
 ### 🔧 Tools & Frameworks  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
-![Qtile](https://img.shields.io/badge/Qtile-44D1FD?style=flat&logo=qt&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-000000?style=flat&logo=gnu-bash&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
-![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
+[![My Tools](https://skillicons.dev/icons?i=linux,nix,bash,neovim,git,github,obsidian&perline=7)](https://skillicons.dev)
 
 ---
 
