@@ -142,7 +142,7 @@ Open to hacking on ideas, learning together, or collaborating on passion project
 **🔋 Fun Facts**:
 - I once spent an entire weekend redoing my Neovim setup because I wasn’t happy with how one plugin looked.
 - I can spend hours configuring my terminal and still feel like I haven’t “perfected” it.
-- I may or may not have yelled at my PC for not compiling code fast enough, it definitely was not my trusty Pentium 3 holding me back.
+- I once realized I forgot to call the function while yelling at the compiler.
 > ✍️ I write code like poetry — minimal, precise, and honest.
 
 ---
