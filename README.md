@@ -53,6 +53,9 @@
 🔹 **[🌳 Manim-Decision-Tree](https://github.com/Gurjaka/manim-decision-tree)**   
 🎬 *Visualizing decision trees using Manim to explore how they split data.*
 
+🔹 **[🤖 Introduction-To-AI](https://github.com/Gurjaka/Introduction-To-AI)**   
+🚀 *Real-world AI practice — a student-led collection of projects from TBC x Geolab’s 20-lecture bootcamp.*
+
 ---
 
 ## 🧩 Contributions  
