@@ -140,7 +140,7 @@ Open to hacking on ideas, learning together, or collaborating on passion project
 ## 📝 More About Me  
 **🎮 Hobbies**: Coding, reading tech books, optimizing my setup, gaming, and binge-watching quirky films and anime.
 
-**🚀 My long-term interests**: AI, ML, electrical engineering, and low-level performance.
+**🚀 My long-term interests**: embedded systems, electrical engineering, and low-level performance.
 
 **🔋 Fun Facts**:
 - I once spent an entire weekend redoing my Neovim setup because I wasn’t happy with how one plugin looked.
