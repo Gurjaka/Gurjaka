@@ -56,7 +56,13 @@
 
 - **[🤖 Personal-movie-recommendation-model](https://github.com/Gurjaka/Personal-movie-recommendation-model)**    
 🎥 *Final project for the TBC x Geolab Bootcamp — a smart movie recommendation system tailored to each user's unique taste.*
+
+- **[🔎 DSGBase](https://github.com/dsg-org/DSGBase)**  
+📊 *DSGBase is a hybrid C backend + Flask frontend framework for working with user datasets. It provides efficient backend logic for data storage/search and a web frontend for user interaction.*
  
+- **[🌼 Pretty](https://github.com/pretty-terminal/pretty)**  
+🖥️ *PreTTY is a modern terminal emulator that blends simplicity with aesthetic design. It’s built to be portable, reliable, and ergonomic, while staying true to the Unix spirit of tty.*
+
 ---
 
 ## 🧩 Contributions   
