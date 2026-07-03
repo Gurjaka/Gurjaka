@@ -2,7 +2,7 @@
 
 > Student. Systems Developer. Georgia.
 
-> **⚠️ Notice: Main development now happens on Codeberg. You can follow my latest work and active repositories at [codeberg.org/gurjaka](https://www.google.com/search?q=https://codeberg.org/gurjaka).**
+> **⚠️ Notice: Main development now happens on Codeberg. You can follow my latest work and active repositories at [codeberg.org/gurjaka](https://codeberg.org/gurjaka).**
 
 I am a developer focused on low-level programming, operating system internals, and building minimalist software. I write code to understand how the machine works, prioritizing performance, control, and clean abstractions.
 
