@@ -14,7 +14,7 @@ Currently deeply invested in **C**, **Zig**, and the **Nix** ecosystem.
 
 Open to discussing systems engineering, physics, or open-source collaboration.
 
-* **Codeberg:** [codeberg.org/gurjaka](https://https://codeberg.org/gurjaka)
+* **Codeberg:** [codeberg.org/gurjaka](https://codeberg.org/gurjaka)
 * **Website:** [gurjaka.dev](https://gurjaka.dev)
 * **Email:** [esartia.gurika@gmail.com](https://www.google.com/search?q=mailto%3Aesartia.gurika%40gmail.com)
 * **Discord:** `gurjaka`
